@@ -1,0 +1,7 @@
+[
+  {"name":"The Fool","cn":"愚者","id":"0","upright":["新的开始","冒险","自由"],"reversed":["冲动","鲁莽","迷茫"]},
+  {"name":"The Magician","cn":"魔术师","id":"1","upright":["意志","资源整合","沟通"],"reversed":["欺骗","方向不明","资源受限"]},
+  {"name":"The High Priestess","cn":"女祭司","id":"2","upright":["直觉","潜意识","沉静"],"reversed":["压抑直觉","秘密外泄","迟疑"]},
+  {"name":"The Empress","cn":"皇后","id":"3","upright":["丰饶","关怀","创造"],"reversed":["懒散","过度依赖","窒息的爱"]},
+  {"name":"The Emperor","cn":"皇帝","id":"4","upright":["秩序","权威","结构"],"reversed":["控制欲","僵化","权力失衡"]}
+]
